@@ -1,0 +1,35 @@
+_repo: To-arms-for-liberty-A-pageant-of-the-war-for-schools-and-societies_69414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bryce, Catherine T. (Catherine Turner)
+    aliases:
+    - Bryce, C. T. (Catherine Turner)
+    - Bryce, Catherine Turner
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '53290'
+    url: http://www.gutenberg.org/2009/agents/53290
+description: ''
+gutenberg_issued: '2022-11-24'
+identifiers:
+  gutenberg: '69414'
+  lccn: '19002077'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=loc.ark:/13960/t3tt59525
+pgterms:marc905: 20200715134834bryce
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: hekula03, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: 'United States: C. C. Birchard & Company,1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Drama'
+- !lcc 'D501'
+- GITenberg
+title: 'To arms for liberty: A pageant of the war for schools and societies'
+url: http://www.gutenberg.org/ebooks/69414
