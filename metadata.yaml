@@ -1,5 +1,8 @@
 _repo: To-arms-for-liberty-A-pageant-of-the-war-for-schools-and-societies_69414
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69414-h/images/cover.jpg
 creator:
   author:
     agent_name: Bryce, Catherine T. (Catherine Turner)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '53290'
     url: http://www.gutenberg.org/2009/agents/53290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69414#To-arms-for-liberty-A-pageant-of-the-war-for-schools-and-societies
 gutenberg_issued: '2022-11-24'
 identifiers:
   gutenberg: '69414'
